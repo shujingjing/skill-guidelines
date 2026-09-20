@@ -22,6 +22,13 @@ Claude Code:  ~/.claude/skills/skill-guidelines/
 
 创建、审查或优化 skill 时，通过技能名 `skill-guidelines` 触发加载。
 
+## 致谢
+
+本技能受以下项目启发：
+
+- [skill-creator](https://github.com/anthropics/skills) — Anthropic 官方的 skill 创建与迭代方法论
+- [karpathy-guidelines](https://x.com/karpathy/status/2015883857489522876) — 源自 Andrej Karpathy 对 LLM 编码常见失误的观察
+
 ## License
 
 [MIT](LICENSE)
